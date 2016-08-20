@@ -1,6 +1,6 @@
-$(window).load(function() {
+/*$(window).load(function() {
     $('#slider').nivoSlider();
-});
+});*/
 
 $(window).load(function() {
     $('#slider').nivoSlider({
